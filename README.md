@@ -16,14 +16,10 @@ This project showcases a responsive product listing page, smooth scrolling navig
 - CSS3
 - JavaScript (with jQuery)
 
-🚀 Live Demo
-
-👉 [View the Live Website](https://ramyasri2329.github.io/E-commerce-shopping-website/)  
-*(This link will work after setting up GitHub Pages)*
-
 ⚙️ How to run locally
 ```bash
 git clone https://github.com/ramyasri2329/E-commerce-shopping-website.git
 cd E-commerce-shopping-website
 npm install -g http-server
 http-server
+Then open the local URL (e.g., http://127.0.0.1:8080) in your browser.
